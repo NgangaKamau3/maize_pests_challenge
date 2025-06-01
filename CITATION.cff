@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Fall Armyworm Detection Team"
+title: "Fall Armyworm Detection System"
+version: 0.1.0
+date-released: 2023-06-01
+url: "https://github.com/NgangaKamau3/fall_armyworm_detection"
+repository-code: "https://github.com/NgangaKamau3/fall_armyworm_detection"
+license: MIT
+abstract: >
+  A deep learning system for detecting fall armyworm infestation in maize plants
+  using image classification, optimized for mobile deployment.
+keywords:
+  - deep-learning
+  - computer-vision
+  - agriculture
+  - pest-detection
+  - mobile-deployment
