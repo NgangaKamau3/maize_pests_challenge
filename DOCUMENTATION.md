@@ -42,6 +42,8 @@ PestDataset/
     └── SampleSubmission.csv  # Sample submission format
 ```
 
+> **Note**: The dataset is not included in the repository due to size constraints. Please download it from the source provided in the README and place it in the appropriate directory structure.
+
 ### Data Preprocessing
 
 Images undergo the following preprocessing steps:
@@ -140,6 +142,9 @@ cd fall_armyworm_detection
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Download and set up the dataset (not included in repository)
+# See README.md for dataset download instructions
 ```
 
 ### Training

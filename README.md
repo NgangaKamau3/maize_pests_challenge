@@ -27,6 +27,14 @@ PestDataset/
     └── SampleSubmission.csv  # Sample submission format
 ```
 
+## 📥 Dataset Setup
+
+The dataset is not included in this repository due to size constraints. To set up the dataset:
+
+1. Download the Fall Armyworm dataset from [source/link]
+2. Extract the contents to `PestDataset/Combined_pestDataset/` in the project root
+3. Verify the structure matches the expected format described above
+
 ## 🚀 Quick Start
 
 ### Prerequisites

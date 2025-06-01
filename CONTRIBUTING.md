@@ -51,7 +51,10 @@ For feature requests, create an issue using the feature request template. Includ
    ```bash
    pip install -r requirements.txt
    ```
-3. Set up the dataset as described in the README
+3. Set up the dataset:
+   - Download the dataset from the source provided in the README
+   - Extract to `PestDataset/Combined_pestDataset/`
+   - **Note**: The dataset is not included in the repository due to size constraints
 
 ## Testing
 
